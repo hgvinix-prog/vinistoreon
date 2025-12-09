@@ -1,3 +1,16 @@
 {
-  "products": []
+  "iphone14": {
+    "nome": "iPhone 14",
+    "preco": 2999,
+    "status": "Disponível",
+    "banner": "iphone14.png",
+    "plano": "12x sem juros"
+  },
+  "ipad10": {
+    "nome": "iPad 10",
+    "preco": 3499,
+    "status": "Indisponível",
+    "banner": "ipad10.png",
+    "plano": "10x sem juros"
+  }
 }
